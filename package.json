@@ -1,0 +1,17 @@
+{
+  "name": "clone-tabnews",
+  "version": "1.0.0",
+  "author": "Hugo Dias",
+  "description": "Projeto de reprodução do site tabnews.com.br, realizado como parte do Curso.dev de Filipe Deschamps",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next dev",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "next": "13.1.6",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
+  },
+  "packageManager": "pnpm@10.7.0"
+}

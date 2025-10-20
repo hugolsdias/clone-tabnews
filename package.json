@@ -6,6 +6,9 @@
   "license": "MIT",
   "scripts": {
     "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
     "lint:check": "prettier --check .",
     "lint:fix": "prettier --write .",
     "test": "jest",
